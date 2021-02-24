@@ -1,4 +1,4 @@
-# Predicted-Stock-prices. 
+# Predicted-Stock-prices 
 
 Imported the data from yahoo finance and used TESLA stock data for the model.
 Creating the data frame for close price. We will only use Close price for this model.
