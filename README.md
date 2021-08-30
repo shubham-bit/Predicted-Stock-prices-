@@ -8,4 +8,4 @@ Compile the Model.
 Preparing the test data, feature scaling and reshaping.
 Predicting the output from from the test data.
 Scaling the data back to the original format.
-Comparing our model's prediction with the actual closing price. 
+Comparing our model's prediction with the actual closing price..
